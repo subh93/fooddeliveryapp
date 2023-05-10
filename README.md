@@ -1,6 +1,5 @@
 # fooddeliveryapp
-This is the MERN stack food delivery project. The purpose of this project is to register and login as a customer, add to cart your yummy menus, pay and check the order.
-
-The customer can create a new account and login their account quickly. After that, they can add the items to "Add To Cart". Quantity and Variety are also available. Then, the order will be listed in the "Order" section.
-
-This is the very basic code and there are scope of improvment. Will updated soon!!!!!
+○ I developed a food delivery web application using the MERN stack.
+○ The application allows customers to register and login, browse menus, add items to their cart, and checkout securely.
+○ Customers can quickly create an account, login, and view their order history.
+○ The application also includes features such as quantity and variety selection, with all orders being listed in the order section
